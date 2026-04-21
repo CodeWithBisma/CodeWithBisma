@@ -39,20 +39,17 @@ Deep Learning, Natural Language Processing (NLP)
 ---
 
 ### Frameworks
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+Flask (Python)
 
 ---
 
 ### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+MongoDB, SQL
 
 ---
 
 ### AI/ML Tools
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+NumPy, Pandas, Scikit-learn
 
 ---
 
@@ -76,16 +73,16 @@ Cloud Computing, Automation, AI-driven systems
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide=TeX,Jupyter%20Notebook" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## Current Focus
-- Deep Learning & Neural Networks  
-- Natural Language Processing (NLP)  
-- Building real-world AI applications  
-- Strengthening system design & backend skills  
+Deep Learning & Neural Networks  
+Natural Language Processing (NLP)  
+Building real-world AI applications  
+Strengthening system design & backend skills  
 
 ---
 
